@@ -1,6 +1,7 @@
-import inquirer from 'inquirer';
-import fs from 'fs';
-import { Triangle, Circle, Square } from './lib/shapes.js';
+const inquirer = require('inquirer');
+const fs = require('fs');
+const { Circle, Triangle, Square } = require('./lib/shapes')
+
 
 function getUserInput() {
     inquirer.prompt([
