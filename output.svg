@@ -1,2 +1,1 @@
-<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg"><g>
-        <circle cx="150" cy="100" r="50" fill="black" /><text x="50%" y="50%" font-size="40" text-anchor="middle" dy=".3em" fill="red">ABC</text></g></svg>
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg"><g><rect x="50" y="5" width="200" height="200" fill="black" /><text x="50%" y="50%" font-size="40" text-anchor="middle" dy=".3em" fill="red">abd</text></g></svg>
